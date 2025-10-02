@@ -17,4 +17,7 @@ INGREDIENT - redirect if user click specific type(if chicken, all ingredients/re
 HIGHLY RECOMMENDED
 MUST TRY RECIPES
 ALL RECIPES
+
+
+
 *------------------*
